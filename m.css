@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    background-color: #8EDBD8;
+}
+
+.field {
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    height: 600px;
+}
+
+.internal_field {
+    margin-right: 100px;
+    margin-top: 100px;
+}
+
+.btn {
+    width: 100px;
+    padding: 0;
+    float: right;
+}
+
+.btn li {
+    display: block;
+    height: 100px;
+}
+
+li input {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+
+}
+
+.score {
+    margin-left: 100px;
+    margin-left: 100px;
+}
+
+.start {
+    width: 100px;
+    height: 50px;
+    margin: auto;
+}
+
+.start_button {
+    width: 100px;
+    height: 50px;
+    font-size: large;
+}
